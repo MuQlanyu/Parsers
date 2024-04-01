@@ -1,0 +1,1 @@
+add_executable(Tests run_tests.cpp CYK_tests.h CYK_tests.cpp Earley_tests.h Earley_tests.cpp)
